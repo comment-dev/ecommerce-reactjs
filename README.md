@@ -5,11 +5,17 @@
     <a href="https://tailwindcss.com/" rel="nofollow">
       <img alt="Tailwind CSS" width="350" src="https://camo.githubusercontent.com/76fc893540a16d0acb4967472a5195511ec64fd8d98f377cb00dc8fa73ffb67b/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2d737469636b65722e737667" style="max-width: 100%;">
     </a>
+    <a href="https://tailwindcss.com/" rel="nofollow">
+      <img alt="Firebase" width="350" src="" style="max-width: 100%;">
+    </a>
 
-# Getting Started
+# Gudang Produk
 
-- [React App](https://github.com/facebook/create-react-app).
-- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss).
+Project Gudang Produk created with:\
+<b>Adobe XD</b>\
+<b>React Js</b>\
+<b>Tailwind Css</b>\
+<b>Firebase</b>
 
 ## Available Scripts
 
@@ -61,3 +67,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 `PayPal` [Buy Me Coffee](https://www.paypal.me/Hasral).
 
 Contact: hasraltech@gmail.com
+
+## LICENSE
+
+[MIT](https://github.com/all-contributors/all-contributors/blob/master/LICENSE).
