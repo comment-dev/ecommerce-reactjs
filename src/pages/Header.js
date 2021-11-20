@@ -74,12 +74,12 @@ const Header = () => {
                   </div>
                 </button>
               </div>
-              <div class="flex justify-end inline relative">
-                <a href="/" class="text-sm text-white pr-3">
-                  Location
-                </a>
-              </div>
             </div>
+          </div>
+          <div class="flex justify-end inline relative">
+            <a href="/" class="text-sm text-white pr-3">
+              Location
+            </a>
           </div>
         </div>
       </nav>
