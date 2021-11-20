@@ -19,6 +19,18 @@ Project Gudang Produk created with:\
 <b>Tailwind Css</b>\
 <b>Firebase</b>
 
+## Screenshot Home Page
+
+<a href="https://firebase.google.com/" rel="nofollow">
+      <img alt="Firebase" width="50%" src="https://github.com/comments-app/ecommerce/blob/master/assets/homepage.png?raw=true" style="max-width: 100%;">
+    </a>
+    
+## Building Apps
+
+We built this application for development.\
+Complex app start from building a Home Page with a Payment Gateway and\
+Expedition system automatically.
+
 ## Available Scripts
 
 In the project directory, you can run:
