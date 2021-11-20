@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+<p dir="auto">
+    <a href="https://tailwindcss.com/" rel="nofollow">
+      <img alt="Tailwind CSS" width="100" src="https://camo.githubusercontent.com/76fc893540a16d0acb4967472a5195511ec64fd8d98f377cb00dc8fa73ffb67b/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2d737469636b65722e737667" data-canonical-src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo-sticker.svg" style="max-width: 100%;">
+    </a><br>
+    A utility-first CSS framework for rapidly building custom user interfaces.
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started
+
+- [Create React App](https://github.com/facebook/create-react-app).
+- [Tailwind](https://github.com/tailwindlabs/tailwindcss).
 
 ## Available Scripts
 
@@ -44,27 +52,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
