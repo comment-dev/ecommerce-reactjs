@@ -58,6 +58,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Contribution
 
-[Buy Me Coffee](https://www.paypal.me/Hasral).
+`PayPal me` [Buy Me Coffee](https://www.paypal.me/Hasral).
 
 Contact: hasraltech@gmail.com
